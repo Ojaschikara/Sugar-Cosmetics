@@ -2,6 +2,9 @@
 
 ### This repository contains the source code for a fully responsive e-commerce website for Sugar Cosmetics, built using React. The website features a modern and intuitive user interface with several pages, including the Home Page, All Products Page, Single Product Details Page, Cart Page, and Login Page. Users can browse through various cosmetic products, view detailed information about each product, add items to their cart, and manage their purchases seamlessly. The application is designed to provide an excellent user experience on both desktop and mobile devices. Below, you will find the complete project structure, installation instructions, and usage guidelines.
 
+## Project Deployed Link :
+
+https://sugar-cosmetics-pi.vercel.app/
 
 # Components and Pages
 ## Components
