@@ -25,6 +25,9 @@
 ### Product Page
 ![Screenshot (233)](https://github.com/Ojaschikara/Sugar-Cosmetics/assets/148073482/8950bad7-6a86-4b74-97d4-55a663d4e7b6)
 
+### Single Product Page
+![Screenshot (237)](https://github.com/Ojaschikara/Sugar-Cosmetics/assets/148073482/405e1da2-1b2e-47ca-8dfc-e6e4157c2085)
+
 ### Cart Page
 ![Screenshot (234)](https://github.com/Ojaschikara/Sugar-Cosmetics/assets/148073482/10e78f7b-a336-41bb-8170-05f46139d8b3)
 
@@ -33,6 +36,8 @@
 
 ### Checkout Page
 ![Screenshot (235)](https://github.com/Ojaschikara/Sugar-Cosmetics/assets/148073482/5e6dcf66-83c3-4f73-a1d7-0e422a291218)
+
+
 
 
 
