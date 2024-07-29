@@ -154,47 +154,47 @@ slidesToShow: 4,
 
 const bestsellerImages= [
   {
-    url: "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FLipstick-_-Kohl-Value-Set---WBG_1.jpg%3Fv%3D1692719185&w=256&q=75",
+    url: "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FMatte-Attack-Transferproof-Lipstick.jpg%3Fv%3D1719855043&w=256&q=75",
     description:"Lipstick and kohal set",
     price:"14",
   }
   ,
   {
-    url:   "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F489511912-women-s-day-gifting-kit-wbg-images_1.jpg%3Fv%3D1688227825&w=256&q=75",
+    url:   "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSUGAR-Signature-Makeup-Kit.jpg%3Fv%3D1719901641&w=256&q=75",
     description:"All you need Beauty kit ",
     price:"14",
   },
   {
-    url: "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F554408657-wedding-makeup-kit-revamp_1.jpg%3Fv%3D1700475948&w=256&q=75",
+    url: "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSUGAR-Play-Smooth-Operator-Lip-Crayon.jpg%3Fv%3D1719899956&w=256&q=75",
     description:"Weeding Makeup kit ",
     price:"13",
   },
   {
-    url:  "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F566527803-the-office-makeup-kit-wbg-1.jpg%3Fv%3D1704460836&w=256&q=75",
+    url:  "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSUGAR-Play-Power-Drip-Lip-Gloss.jpg%3Fv%3D1719893402&w=256&q=75",
     description:"The Ofiice Makeup kit ",
     price:"14",
     
   },
   {
-    url:  "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FValue-Sets---WBG-Listing_de1b12a1-0bf9-4ea0-8f47-fafa1c76bafa.jpg%3Fv%3D1694187888&w=256&q=75",
+    url:  "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FMatte-Attack-Transferproof-Lipstick.jpg%3Fv%3D1719855043&w=256&q=75",
     description:"Priming Mostrixzue and foundation duo",
     price:"13",
     
   },
   {
-    url:   "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FValue-Sets---WBG-Listing_543b4a34-7c88-4bf5-b51a-26354f743fcb.jpg%3Fv%3D1694187910&w=256&q=75",
+    url:   "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSUGAR-Signature-Makeup-Kit.jpg%3Fv%3D1719901641&w=256&q=75",
     description:"Lips so pretty duo",
     price:"8",
     
   },
   {
-    url:  "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FAirKissPowderPoweredByImagesArtboard1.jpg%3Fv%3D1644813116&w=256&q=75",
+    url:  "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSUGAR-Play-Smooth-Operator-Lip-Crayon.jpg%3Fv%3D1719899956&w=256&q=75",
     description:"Air kiss powder Lipstick",
     price:"13",
     
   },
   {
-    url:   "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F489511912-women-s-day-gifting-kit-wbg-images_1.jpg%3Fv%3D1688227825&w=256&q=75",
+    url:   "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSUGAR-Play-Power-Drip-Lip-Gloss.jpg%3Fv%3D1719893402&w=256&q=75",
     description:"All you need Beauty kit ",
     price:"11",
     
